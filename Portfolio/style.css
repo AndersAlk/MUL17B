@@ -1,0 +1,215 @@
+body {
+	background: #ffffff;
+	font-family: arial;
+	
+}
+/* Template begins*/
+#template {
+	color: #000000;
+	margin: 0 0 50px 0;
+	padding: 0 0 22px 20px;
+	border-bottom: 1px solid #B8B8B8;
+}
+
+#template li {
+	text-decoration: none;
+	display: inline;
+	margin: 0 50px 0 50px;
+	padding: 0;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 1.2em;
+	color:#E5AD6E;
+}
+#template a {
+	text-decoration: none;
+	color: #000000;
+	padding: 0.5px 20px; 
+}
+
+#homebutton {
+	border-bottom: 1px solid #000000;
+}
+#portfoliobutton {
+	border-bottom: 1px solid #000000;
+}
+#contactbutton {
+	border-bottom: 1px solid #000000;
+}
+#aboutmebutton {
+	border-bottom: 1px solid #000000;
+}
+/*Template ends*/
+
+h1 {
+	font-size: 18px;
+	text-align: center;
+	}
+/*Homepage begins*/
+#frontpic {
+	width: 1900px;
+	height: 700px;
+	background-color: #ffffff;
+	margin: 0 0px 0 0px;
+	border-bottom: 1px solid #000000;
+}
+#arrow {
+	position: absolute;
+	left: 1770px;
+	top: 719px;
+}
+/*Homepage ends*/
+
+/*Portfolio begins*/
+#images {
+	padding: 50px;
+}
+#bro {
+	float: left;
+	margin: 20px 0 0 50px;
+	width: 500px;
+}
+#broefter {
+	object-position: left;
+	position: absolute;
+	width: 500px;
+}
+
+/*Portfolio pictures*/
+#alt {
+	position: relative;
+}
+#backbutton {
+	position: absolute;
+	margin: 0 0 20px 20px;
+	bottom: 330px;
+}
+#button {
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #909090;
+	border-radius: 5px;
+	font-size: 70%;
+	margin: 0 0 0 50px;
+}
+#port1-1 {
+	width: 400px;
+	padding: 20px 0;
+	margin: 0 0 0 0px;
+}
+#port1-2 {
+	width: 400px;
+	padding: 20px;
+	margin: 0 0 0 50px;
+}
+#projecttxt {
+	position: absolute;
+	width: 870px;
+	left: 300px;
+}
+#projectdet {
+	position: absolute;
+	left: 1250px;
+	bottom: 80px;
+	margin: 0 0 0 0;
+	max-width: 270px;
+}
+/*Portfolio ends*/
+
+/*Contact begins*/
+#contactinfo{
+	position: absolute;
+	left: 925px;
+}
+#contactline{
+width: 1900px;
+	height: 200px;
+	background-color: #ffffff;
+	margin: 0 0px 0 0px;
+	border-bottom: 1px solid #000000;
+	}
+#icons {
+	position: absolute;
+	left: 50px;
+	top: 150px;
+}
+#twit {
+	position: absolute;
+	left: 225px;
+}
+#gplus {
+	position: relative;
+	left: 350px;
+}
+/*Contact ends*/
+
+/*About me*/
+#container {
+	margin: 50px;
+}
+#strengths {
+	position: absolute;
+	left: 1270px;
+	top: 150px;
+}
+#caption {
+	font-size: 25px;
+	width: 600px; 
+}
+#toolchart {
+	width: 500px;
+	height: 60px;
+}
+#psnpentool{
+	position: absolute;
+	width: 20%;
+	bottom: 450px;
+	left: 350px;
+}
+#animinde{
+	position: absolute;
+	width: 20%;
+	bottom: 275px;
+	left: 350px;
+}
+#ildrew{
+	position: absolute;
+	width: 20%;
+	bottom: 100px;
+	left: 350px;
+}
+#text-1 {
+	position: absolute;
+	left: 1270px;
+	bottom: 0px;
+	top: 250px;
+	margin: 0 20px 0 0;
+	max-width: 550px;
+	font-size: 25px;
+}
+#texts{
+	width: 800px;
+	height: 1200px;
+}
+#text-2 {
+	position: absolute;
+	font-size: 20px;
+	left: 350px;
+	max-width: 800px;
+	top: 870px;
+}
+#text-3 {
+	position: absolute;
+	font-size: 20px;
+	left: 350px;
+	max-width: 800px;
+	top: 1020px;
+}
+#text-4 {
+	position: absolute;
+	font-size: 20px;
+	left: 350px;
+	max-width: 800px;
+	top: 1150px;
+}
+/*About me ends*/
+
